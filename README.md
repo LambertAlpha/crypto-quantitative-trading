@@ -7,3 +7,4 @@
 3.Trading View 没有试过回测
 4.vectorbt 正在尝试
 5.zads公司回测框架 有待学习方便以后自研
+6.freqtrade正在学习实盘运用
